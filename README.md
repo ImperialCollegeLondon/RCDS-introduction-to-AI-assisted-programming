@@ -1,3 +1,3 @@
-# RCDS-introduction-to-AI-assisted-programming
+Introduction to AI-Assisted Programming
 
 These course materials are under construction.
