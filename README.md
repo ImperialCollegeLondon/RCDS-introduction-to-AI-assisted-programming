@@ -10,19 +10,17 @@ There are several Jupyter notebooks (the files with the extension ```.ipynb```) 
 
 To complete this course, you will need to attend the Microsoft Teams session. You should do this using the Microsoft Teams app, signed into your Imperial account, if you have one. You should have a working microphone and camera. 
 
-The easiest way to run the course materials in a GitHub Codespace (instructions below). This requires no setup in advance past the pre-course instructions above. Alternatively, you may download the course materials on to your own computer, install [Visual Studio Code](https://code.visualstudio.com/) and install the following extensions within VS Code:
-* [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) 
-* [GitHub Copilot Chat]
-* [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
-* [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
-
 ## Face to Face Course Instructions
 
 This course will take place in an ICT computer room and so laptops are not required but you may bring one if you wish.
 
-The easiest way to run the course materials in a GitHub Codespace (instructions below), which can be done on a computer room computer, or you own laptop. This requires no setup in advance past the pre-course instructions above. Alternatively, you may download the course materials on to your own computer, install [Visual Studio Code](https://code.visualstudio.com/) and install the following extensions within VS Code:
+## Accessing Course Materials
+
+The easiest way to run the course materials in a GitHub Codespace (instructions below), which can be done on a computer room computer for a face to face session, or your own laptop. This requires no setup in advance past the pre-course instructions above. 
+
+Alternatively, you may download the course materials on to your own computer, install [Visual Studio Code](https://code.visualstudio.com/) and install the following extensions within VS Code:
 * [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) 
-* [GitHub Copilot Chat]
+* [GitHub Copilot Chat](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat)
 * [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 * [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
 
