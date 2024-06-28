@@ -20,7 +20,8 @@
 	      "extensions": [
 			"ms-python.python",
 			"ms-toolsai.jupyter",
-			"analytic-signal.preview-pdf"]
+			"github.copilot",
+			"github.copilot-chat"]
 	    }
 	  }
 

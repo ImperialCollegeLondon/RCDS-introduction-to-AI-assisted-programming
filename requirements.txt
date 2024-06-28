@@ -1,0 +1,6 @@
+numpy
+scipy
+pandas
+numba
+line_profiler
+ipykernel
