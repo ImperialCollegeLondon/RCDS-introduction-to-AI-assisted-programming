@@ -14,6 +14,10 @@ To complete this course, you will need to attend the Microsoft Teams session. Yo
 
 This course will take place in an ICT computer room and so laptops are not required but you may bring one if you wish.
 
+## Seld-Study
+
+This course can be studied independently at your own pace. Make sure you have completed the pre-course instructions described above. Once your GitHub account is set up and registered with GitHub Education, open a Codespace as described below. You can then work your way through the jupyter notebooks in the the order they are numbered. Make sure to experiment with the tools and complete the exercises to gain experience of using the tools yourself.
+
 ## Accessing Course Materials
 
 The easiest way to run the course materials in a GitHub Codespace (instructions below), which can be done on a computer room computer for a face to face session, or your own laptop. This requires no setup in advance past the pre-course instructions above. 
