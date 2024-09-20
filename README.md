@@ -2,7 +2,7 @@
 
 ## Pre-Course Instructions
 
-In order to follow this hackathon, you will need to have a [GitHub](https://github.com/home) account. If you don't have one, you can sign up for free. You will also need to enable [Github Copilot](https://github.com/features/copilot) in your Github account. This is, by default, a paid-for feature, but it is also available for free to students and educators through Github Education. You can register for this [here](https://github.com/edu). It may take a few days for your application to be approved, so it is best to apply at least a week in advance.
+In order to follow this hackathon, you will need to have a [GitHub](https://github.com/home) account. If you don't have one, you can sign up for free. You will also need to enable [Github Copilot](https://github.com/features/copilot) in your Github account. This is, by default, a paid-for feature, but it is also available for free to students and educators through Github Education. You can register for this [here](https://github.com/edu). It may take a few days for your application to be approved, so **you should apply at least ten days in advance of the course**.
 
 There are several Jupyter notebooks (the files with the extension ```.ipynb```) present in this  repository. You may review them in advance if you want to, but you aren't required to.
 
@@ -13,6 +13,10 @@ To complete this course, you will need to attend the Microsoft Teams session. Yo
 ## Face to Face Course Instructions
 
 This course will take place in an ICT computer room and so laptops are not required but you may bring one if you wish.
+
+## Self-Study
+
+This course can be studied independently at your own pace. Make sure you have completed the pre-course instructions described above. Once your GitHub account is set up and registered with GitHub Education, open a Codespace as described below. You can then work your way through the jupyter notebooks in the the order they are numbered. Make sure to experiment with the tools and complete the exercises to gain experience of using the tools yourself.
 
 ## Accessing Course Materials
 
