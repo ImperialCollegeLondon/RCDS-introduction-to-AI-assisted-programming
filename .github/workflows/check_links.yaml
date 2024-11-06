@@ -18,4 +18,4 @@ jobs:
       - name: Run lychee link checker
         uses: lycheeverse/lychee-action@v1.0.7
         with:
-          args: --verbose --no-progress --exclude-private --timeout 30s
+          args: --verbose --no-progress --exclude-private --timeout 30
