@@ -1,7 +1,4 @@
 numpy
 scipy
-pandas
-numba
 matplotlib
-line_profiler
 ipykernel
