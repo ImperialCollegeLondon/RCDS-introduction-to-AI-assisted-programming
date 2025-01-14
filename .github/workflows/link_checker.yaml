@@ -1,0 +1,38 @@
+name: Check Markdown Links
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+  schedule:
+    - cron: 0 13 1 * *
+
+jobs:
+  linkChecker:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install nbconvert
+        run: pip install nbconvert
+
+      - name: Convert Notebooks to Markdown
+        run: |
+          for notebook in $(find . -name "*.ipynb"); do
+            jupyter nbconvert --to markdown "$notebook" --output-dir=ipynb_files_converted_to_md_files
+          done
+
+      - name: Link Checker
+        id: lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+            args: --verbose './**/*.md'
+            fail: True
