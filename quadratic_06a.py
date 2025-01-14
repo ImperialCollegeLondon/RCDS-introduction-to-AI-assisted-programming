@@ -7,7 +7,8 @@ def quadratic_solver(a, b, c):
     param b: float - coefficient of x
     param c: float - constant term
     return: tuple - solutions to the equation
-    raise: ValueError - if a is 0 or if the discriminant is negative
+    raise: ValueError - if the discriminant is negative
+    raise: ZeroDivisionError - if a is zero
     '''
     determinant = b ** 2 - 4 * a * c
     if determinant == 0:
