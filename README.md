@@ -2,7 +2,7 @@
 
 ## Pre-Course Instructions
 
-In order to complete this course, you will need to have a [GitHub](https://github.com/home) account. If you don't have one, you can sign up for free. You will also need to enable [Github Copilot](https://github.com/features/copilot) in your Github account. Thare are free and paid for tiers of GitHub Copilot. Students and educators can get access to the Pro version through Github Education. You can register for this [here](https://github.com/edu). It may take up to 10 days to receive access. For this course you can probably make so with the free version, but you should register for GitHub Education to get the Pro version to use going forward.
+In order to complete this course, you will need to have a [GitHub](https://github.com/home) account. If you don't have one, you can sign up for free. You will also need to enable [Github Copilot](https://github.com/features/copilot) in your Github account. There are free and paid for tiers of GitHub Copilot. Students and educators can get access to the Pro version through Github Education. You can register for this [here](https://github.com/edu). It may take up to 10 days to receive access. For this course you can probably make do with the free version, but you should register for GitHub Education to get the Pro version to use going forward.
 
 There are several Jupyter notebooks (the files with the extension ```.ipynb```) present in this  repository. You may review them in advance if you want to, but you aren't required to.
 
