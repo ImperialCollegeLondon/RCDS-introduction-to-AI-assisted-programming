@@ -2,7 +2,20 @@
 
 ## Pre-Course Instructions
 
-In order to complete this course, you will need to have a [GitHub](https://github.com/home) account. If you don't have one, you can sign up for free. You will also need to enable [Github Copilot](https://github.com/features/copilot) in your Github account. There are free and paid for tiers of GitHub Copilot. Students and educators can get access to the Pro version through Github Education. You can register for this [here](https://github.com/edu). It may take up to 10 days to receive access. For this course you can probably make do with the free version, but you should register for GitHub Education to get the Pro version to use going forward.
+In order to complete this course, you will need to have a [GitHub](https://github.com/home) account. If you don't have one, you can sign up for free. 
+
+> [!IMPORTANT]
+> This courses teaches you how to use GitHub Copilot, which is a paid service for all but minimal usage.
+>
+> Imperial ICT provide GitHub Copilot business paid subscriptions to Imperial staff and postgraduate students who are involved in research. If you use GitHub Copilot to assist you with programming tasks, these plans provide a high quota which is suitable for regular use. To get access to this plan you will need to:
+>
+> * Make a [GitHub account](https://github.com/),
+> * Join the [Imperial GitHub organisation](https://imperialcollegelondon.github.io/docs/gain_access) by clicking [here](https://github.com/orgs/ImperialCollegeLondon/sso),
+> * Request a licence by visiting [this repository](https://github.com/ImperialCollegeLondon/github-resources#how-to-request-a-github-copilot-for-business-license) and creating an issue on that repository.
+>
+> If you are not a member of staff or a postgraduate student who conducts research, you should sign up for [GitHub Education](https://github.com/education) which gives you a (less generous) quota for GitHub Copilot.
+>
+> Whichever route is relevant to you, **you should start whichever process is relevant to you at least 10 days before the summer school** as there may be delays in the processes.
 
 There are several Jupyter notebooks (the files with the extension ```.ipynb```) present in this  repository. You may review them in advance if you want to, but you aren't required to.
 
